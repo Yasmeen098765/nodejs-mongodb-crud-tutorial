@@ -1,0 +1,56 @@
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\Lec-10-node> node src/app.js
+ Starting all examples...
+
+ Connected to database successfully
+
+======= Example 1: Adding Individual Users =======
+ User added with ID: 693969b6b49512fd74935e42
+First ID: 693969b6b49512fd74935e42
+ User added with ID: 693969b6b49512fd74935e43
+Second ID: 693969b6b49512fd74935e43
+
+======= Example 2: Adding Multiple Users =======
+ Added 10 users successfully
+
+======= Example 3: Finding Users =======
+Users with age 27:
+- Sara (Age: 27)
+- Yousef (Age: 27)
+- Layla (Age: 27)
+- Omar (Age: 27)
+- Huda (Age: 27)
+
+======= Example 4: Counting Users =======
+Number of users aged 27: 5
+
+======= Example 5: Find User by ID =======
+ User id:(6939672d561e78e88d824702) not found
+##########################################
+ Database connection closed
+##########################################
+
+ All operations completed
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\Lec-10-node> 
+
+
+
+
+
+
+//2_
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\Lec-10-node> node src/app.js
+ Starting all examples...
+
+ Connected to database successfully
+
+======= Example 5: Find User by ID =======
+User Details:
+Name: Mohammed
+Age: 21
+ID: 693969b6b49512fd74935e43
+##########################################
+ Database connection closed
+##########################################
+
+ All operations completed
+PS C:\Users\Yasmeen\.vscode22\Official Backend R44 nodeJs SEF Academy 2025-10-22\Lec-10-node> 
